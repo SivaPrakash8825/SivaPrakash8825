@@ -1,5 +1,11 @@
 ### Hi there 👋,I'm SivaPrakash
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aventureboreale.es%2F%3Fs%3Dbit-gifs-hh-DXBMXYi8&psig=AOvVaw2S2gHrSCuBolSJMm9yW25c&ust=1705071424722000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDq_pnM1YMDFQAAAAAdAAAAABAQ">
+ <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aventureboreale.es%2F%3Fs%3Dbit-gifs-hh-DXBMXYi8&psig=AOvVaw2S2gHrSCuBolSJMm9yW25c&ust=1705071424722000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDq_pnM1YMDFQAAAAAdAAAAABAQ)">
+ <img alt="YOUR-ALT-TEXT" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aventureboreale.es%2F%3Fs%3Dbit-gifs-hh-DXBMXYi8&psig=AOvVaw2S2gHrSCuBolSJMm9yW25c&ust=1705071424722000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDq_pnM1YMDFQAAAAAdAAAAABAQ">
+</picture>
+
 <!--
 **SivaPrakash8825/SivaPrakash8825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
