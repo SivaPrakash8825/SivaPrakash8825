@@ -1,5 +1,5 @@
 ### Hi there 👋,I'm SivaPrakash
-### Hi there 👋,I'm SivaPrakash
+
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="./gifimage.gif">
