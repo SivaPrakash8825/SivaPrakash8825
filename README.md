@@ -6,7 +6,6 @@
  <img alt="YOUR-ALT-TEXT" src="./gifimage.gif">
 </picture>
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 <!--
 **SivaPrakash8825/SivaPrakash8825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
