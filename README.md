@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-chi-seven-58.vercel.app/](https://portfolio-chi-seven-58.vercel.app/)
 
-- 📝 I Blog Link : [https://sivaprakashblog.netlify.app/](https://sivaprakashblog.netlify.app/)
+- 📝 Blog Link : [https://sivaprakashblog.netlify.app/](https://sivaprakashblog.netlify.app/)
 
 - 📫 How to reach me **sivaprakash2122003@gmail.com**
 
