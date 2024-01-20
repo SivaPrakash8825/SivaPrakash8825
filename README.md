@@ -5,7 +5,7 @@
 
 <p align="center">
 
- <img alt="sivaprakash" width="600" height="400" src="./gifimage.gif">
+ <img alt="sivaprakash" width="auto" height="400" src="./gifimage.gif">
 </p>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
